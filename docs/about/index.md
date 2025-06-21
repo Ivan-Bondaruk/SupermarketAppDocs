@@ -1,28 +1,21 @@
-# WeC – the power of the wind is in your hands
+# SupermarketApp
 
-> _Wind energy calculation and analysis tool - fast, convenient and autonomous._
-
----
-
-## What is **WeC**?
-
-**WeC** is a modern application for engineers, researchers and wind energy enthusiasts that helps calculate key parameters of wind turbines. We have collected all the most important things, removed the unnecessary ones - so that you can focus on engineering, not on routine.
-
-🔗 [Donwload from Microsoft Store](https://apps.microsoft.com/detail/9PB1Q05RX9ZR)
+> _Template for create own shop app_
 
 ---
 
-## Why choose WeC?
+## What is **SupermarketApp**?
+
+**SupermarketApp** is a template that you can use to create your own app for your shop. You need to understand that application in this template not use like SAP technology and products assortment provides by own database tables. You can associate your own database and do changes for app source code to support your DB.
+
+---
+
+## Why choose this template?
 
 ### Everything you’d expect – and a little more
 
-!!! info ""
-    Below are the key features of WeC:
-
----
-
-!!! example "🚀 Fast and lightweight"
-    We took care of the speed. The application weighs very little, starts instantly and works smoothly even on old devices.
+!!! example "🚀 Local development"
+    Application works with local SupaBase so it means that you have unlimited 
 
 !!! example "📡 No Internet"
     All calculations are performed locally - no Internet needed. Complete autonomy, wherever you go.
@@ -43,9 +36,3 @@
 - Anyone who is passionate about wind energy
 
 ---
-
-## Join the future of clean energy
-
-**WeC** — your reliable assistant in the world of wind. Install, research, design.
-
-📥 [Download WeC](https://apps.microsoft.com/detail/9PB1Q05RX9ZR)

@@ -1,13 +1,13 @@
 # Project information
-site_name: WeC
-site_url: https://ivan-bondaruk.github.io/WeC/
+site_name: SupermarketApp
+site_url: https://bondarukid.github.io/SupermarketApp/
 site_author: Ivan Bondaruk
 site_description: >-
-  All what you need for wind green energy production
+  Sample shop app implementation
 
 # Repository
-repo_name: Ivan-Bondaruk/WeC
-repo_url: https://github.com/Ivan-Bondaruk/WeC
+repo_name: bondarukid/SupermarketApp
+repo_url: https://github.com/bondarukid/SupermarketApp
 
 # Copyright
 copyright: Copyright &copy; 2025 Ivan Bondaruk
@@ -157,24 +157,23 @@ nav:
   - About:
     - about/index.md
     - about/support.md
-    - about/devsupport.md
-    - about/privacy.md
-  - Tools:
-    - Kind of tools: tools/index.md
-    - Ohms Law:
-      - Current: tools/ohmslaw/current.md
-      - Voltage: tools/ohmslaw/voltage.md
-      - Resistance: tools/ohmslaw/resistance.md
-      - Power: tools/ohmslaw/power.md
-    - Circle:
-      - Area: tools/circle/area.md
-      - Length: tools/circle/length.md
-      - Devide: tools/circle/devide.md
-    - Wind and Energy:
-      - Anual energy production: tools/windandenergy/aep.md
-      - Real power: tools/windandenergy/realpower.md
-      - Payback period: tools/windandenergy/paybackperiod.md
-      - Wind power: tools/windandenergy/windpower.md
-    - In Dev: tools/dev.md
+    - Development: about/devsupport.md
+  - Supabase:
+    - About: supabase/index.md
+    - Run Supabase locally: supabase/localrun.md
+    - supabase/auth.md
+    - supabase/database.md
+    - Tables:
+      - Users: supabase/tables/user.md
+      - Allergens: supabase/tables/allergens.md
+  - IOS:
+    - Project Strcuture: ios/structure.md
+    - Services:
+      - Supabase: ios/supabase.md
+      - Auth: ios/auth.md
+    - Models:
+      - ios/models/index.md
+      - ios/models/user.md
+      - ios/models/allergens.md
   - Blog:
     - blog/index.md
